@@ -1,16 +1,20 @@
 body {
-  background-color: green;
+  background-color: #b2e672;
 }
 h1 {
-  background-color: yellow;
+  background-color: #fffd88;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 ul {
-  background-color: orange;
+  background-color: #ffd478;
+  padding: 10px;
 }
 li {
-  background-color: aquamarine;
+  background-color: #f96b85;
+  margin: 10px 0px;
+  padding: 5px;
+  border: 5px dotted black;
 }
-a {
-  background-color: pink;
-}
+/* a {
+} */
